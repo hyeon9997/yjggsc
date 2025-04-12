@@ -8,6 +8,7 @@ const studentData = [
     googleId: "chulsoo.kim@g.school.com",
     password: "pass1234"
   },
+
   {
     studentId: "202302",
     name: "이영희",
@@ -19,6 +20,12 @@ const studentData = [
     name: "박민수",
     googleId: "minsoo.park@g.school.com",
     password: "pw2023!"
+  },
+    {
+    studentId: "202304",
+    name: "김도희",
+    googleId: "dohee.kim@g.school.com",
+    password: "pass1234"
   }
 ];
 
